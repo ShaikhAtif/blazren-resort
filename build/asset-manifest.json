@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/blazren-resort/static/css/main.e9af78fc.chunk.css",
+    "main.js": "/blazren-resort/static/js/main.b97a3f68.chunk.js",
+    "main.js.map": "/blazren-resort/static/js/main.b97a3f68.chunk.js.map",
+    "runtime-main.js": "/blazren-resort/static/js/runtime-main.f9065dd0.js",
+    "runtime-main.js.map": "/blazren-resort/static/js/runtime-main.f9065dd0.js.map",
+    "static/js/2.acc9b4d2.chunk.js": "/blazren-resort/static/js/2.acc9b4d2.chunk.js",
+    "static/js/2.acc9b4d2.chunk.js.map": "/blazren-resort/static/js/2.acc9b4d2.chunk.js.map",
+    "index.html": "/blazren-resort/index.html",
+    "static/css/main.e9af78fc.chunk.css.map": "/blazren-resort/static/css/main.e9af78fc.chunk.css.map",
+    "static/js/2.acc9b4d2.chunk.js.LICENSE.txt": "/blazren-resort/static/js/2.acc9b4d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9065dd0.js",
+    "static/js/2.acc9b4d2.chunk.js",
+    "static/css/main.e9af78fc.chunk.css",
+    "static/js/main.b97a3f68.chunk.js"
+  ]
+}
